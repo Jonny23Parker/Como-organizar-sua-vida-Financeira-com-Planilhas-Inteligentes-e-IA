@@ -28,5 +28,7 @@ Apenas conversão de aleatório para as funções no sheets
 4. Utilize as sugestões da IA para otimizar sua organização financeira.  
 
 
+## Planilha finalizada!
 
+📕  [Baixa a Planilha](https://github.com/Jonny23Parker/Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/main/Como%20organizar%20sua%20vida%20Financeira%20com%20Planilhas%20Inteligentes%20e%20IA.xlsx) - Planilha Finalizada do curso.
 
